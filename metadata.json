@@ -1,0 +1,6 @@
+{
+  "name": "DLMS Pro",
+  "description": "Digital Loudspeaker Management System with 120+ DSP features, real-time routing, and an AI-powered audio setup assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
